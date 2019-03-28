@@ -1,0 +1,32 @@
+工作描述
+Senior BI Developer-Growth Analytics
+Coupang is one of the largest and fastest growing e-commerce platforms on the planet. Our mission is to create a world in which customers ask “How did I ever live without Coupang?” We are looking for passionate builders to help us get there. Powered by world-class technology and operations, we have set out to transform the end-to-end customer experience -- from revolutionizing last-mile delivery to rethinking how customers search and discover on a truly mobile-first platform. We have been named one of the “50 Smartest Companies in the World” by MIT Technology Review and “30 Global Game Changers” by Forbes.
+Coupang is a global company with offices in Beijing, Los Angeles, Seattle, Seoul, Shanghai, and Silicon Valley.
+ 
+Job Overview：
+Coupang’s Growth Analytics team is laser focused on understanding our customers and finding growth levers for the company. We are looking for someone to join our team and help us gain a deep understanding Coupang’s business performance, customer behavior, marketing campaign effectiveness, and marketing platform data. Additionally, this role will help architect and maintain robust ETL’s to take disparate data sets and turn them into usable and actionable insights to assist with data backed marketing innovation.
+ 
+Key Responsibilities:
+·         Be an expert in building reliable and scalable BI pipelines and ETL workflows with Airflow, Oozie or even better, your own Python, Scala.
+·         Be proficient with Big Data technologies like Hadoop, Hive, Presto, Spark, Redshift, and various AWS stacks
+·         Create top-notch SQL code to efficiently aggregate, organize, and synthesize large amounts of data for testing, reporting and statistical modeling
+·         Create compelling and succinct Tableau dashboards, visualizing large datasets in a consumable and actionable format
+·         Find the root cause of data problems and metric trends
+·         Rigorously validate information and be a champion for data quality
+ 
+ Qualifications:
+·       3+ years of experience with large-scale data warehouse development, including DW architecture, ETL, batch job, SQL tuning, data quality script.
+·       Must have expert SQL/HQL knowledge and experience in creating data pipelines with Airflow, Oozie or directly with programming languages such as Python or Scala.
+·       Be familiar with SQL/HQL system, such as Redshift, Hadoop, Presto and Spark.
+·       Hands-on experience in Tableau development from server-side organization of dashboards to backend extract optimization
+·       Code/Build/Deployment: GIT, GITLab, etc
+·       Hands on experience of the script for data quality check, like Perl, Shell or Python.
+·       3+ years of relevant experience in Retail / e-commerce / marketing / technology / consulting / finance
+·       Expertise in educating and providing guidance to stakeholders on harnessing data in support of business needs and setting agenda for actions
+ 
+Preferred :
+·         Better PPT, Word and Presentation skill
+·         Experience with large-scale data analysis, and modelling experience, including R, SASS or similar tools
+·         Solid grasp on a/b test & control fundamentals and statistical analysis
+·         Excellent communication skills and track record of collaboration for cross functional projects
+·         Working knowledge of machine learning models related to customer conversion propensity, behavioral clustering and LTV projection
